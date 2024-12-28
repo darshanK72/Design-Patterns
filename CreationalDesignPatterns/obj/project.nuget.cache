@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fo5CT63ODUU=",
+  "success": true,
+  "projectFilePath": "C:\\.SDE\\02. Practice\\14. Design Patterns C#\\CreationalDesignPatterns\\CreationalDesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dakhairn\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}

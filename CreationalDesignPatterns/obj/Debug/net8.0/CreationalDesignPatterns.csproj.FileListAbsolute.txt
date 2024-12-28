@@ -1,0 +1,12 @@
+C:\.SDE\02. Practice\14. Design Patterns C#\CreationalDesignPatterns\obj\Debug\net8.0\CreationalDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\.SDE\02. Practice\14. Design Patterns C#\CreationalDesignPatterns\obj\Debug\net8.0\CreationalDesignPatterns.AssemblyInfoInputs.cache
+C:\.SDE\02. Practice\14. Design Patterns C#\CreationalDesignPatterns\obj\Debug\net8.0\CreationalDesignPatterns.AssemblyInfo.cs
+C:\.SDE\02. Practice\14. Design Patterns C#\CreationalDesignPatterns\obj\Debug\net8.0\CreationalDesignPatterns.csproj.CoreCompileInputs.cache
+C:\.SDE\02. Practice\14. Design Patterns C#\CreationalDesignPatterns\bin\Debug\net8.0\CreationalDesignPatterns.deps.json
+C:\.SDE\02. Practice\14. Design Patterns C#\CreationalDesignPatterns\bin\Debug\net8.0\CreationalDesignPatterns.dll
+C:\.SDE\02. Practice\14. Design Patterns C#\CreationalDesignPatterns\bin\Debug\net8.0\CreationalDesignPatterns.pdb
+C:\.SDE\02. Practice\14. Design Patterns C#\CreationalDesignPatterns\obj\Debug\net8.0\CreationalDesignPatterns.dll
+C:\.SDE\02. Practice\14. Design Patterns C#\CreationalDesignPatterns\obj\Debug\net8.0\refint\CreationalDesignPatterns.dll
+C:\.SDE\02. Practice\14. Design Patterns C#\CreationalDesignPatterns\obj\Debug\net8.0\CreationalDesignPatterns.pdb
+C:\.SDE\02. Practice\14. Design Patterns C#\CreationalDesignPatterns\obj\Debug\net8.0\ref\CreationalDesignPatterns.dll
+C:\.SDE\02. Practice\14. Design Patterns C#\CreationalDesignPatterns\obj\Debug\net8.0\CreationalDesignPatterns.csproj.AssemblyReference.cache
